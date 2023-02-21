@@ -3,10 +3,10 @@
 - 🌱 currently,i'm learning data science
 - 📫 How to reach me muhammad.hadi.selamet@gmail.com
 
-<!---
-hadiselamethariyanto/hadiselamethariyanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiselamethariyanto&layout=compact)](https://github.com/hadiselamethariyanto/github-readme-stats) -->
+## 🛠 Tech Stack
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%230095D5.svg?style=flat&logo=javascript&logoColor=white)&nbsp;
