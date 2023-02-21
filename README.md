@@ -14,4 +14,5 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2316A5F3.svg?style=flat&logo=flutter&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%23008CD7.svg?style=flat&logo=python&logoColor=white)&nbsp;
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiselamethariyanto&layout=compact)](https://github.com/hadiselamethariyanto/github-readme-stats)
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiselamethariyanto&layout=compact)](https://github.com/hadiselamethariyanto/github-readme-stats)
+| ------------- |
