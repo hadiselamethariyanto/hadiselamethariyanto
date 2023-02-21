@@ -10,3 +10,7 @@
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=white)&nbsp;
+  ![Swift](https://img.shields.io/badge/Swift-%23DD6620.svg?style=flat&logo=swift&logoColor=white)&nbsp;
+  ![Flutter](https://img.shields.io/badge/Flutter-%2316A5F3.svg?style=flat&logo=flutter&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-%23008CD7.svg?style=flat&logo=python&logoColor=white)&nbsp;
+  
